@@ -1,1 +1,5 @@
-console.log "Site loaded."
+#= require modernizr
+#= require jquery
+#= require foundation
+
+$(document).foundation()

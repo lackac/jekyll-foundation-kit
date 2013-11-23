@@ -5,6 +5,7 @@ pygments: true
 assets:
   cache: true
   js_compressor: uglifier
+  css_compressor: sass
   gzip: false
 
 exclude:
@@ -12,3 +13,5 @@ exclude:
   - Gemfile.lock
   - bin
   - vendor
+  - bower.json
+  - bower_components
