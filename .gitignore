@@ -4,3 +4,5 @@ Gemfile.lock
 .bundle
 bin/
 vendor/ruby/
+
+.jekyll-assets-cache
